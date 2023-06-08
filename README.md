@@ -7,6 +7,8 @@ Running Locally
 First, you need to have a working go environment:
 
 http://golang.org/doc/install
+ 
+ please create a review app
 
 ### Build
 ```sh
