@@ -1,7 +1,6 @@
 module github.com/Scalingo/sample-go-martini
 
-// +scalingo goVersion go1.17
-go 1.17
+go 1.20
 
 require (
 	github.com/go-martini/martini v0.0.0-20150420183116-d39885924ac2
